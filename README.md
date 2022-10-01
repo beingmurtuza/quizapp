@@ -12,3 +12,9 @@
 
 - `npm i` or `npm install` to install all the dependencies required.
 - `npm start` use this command to start the app.
+
+Check the App Live on: (Click on link below:)
+
+1.	Over Netlify: https://almabetter-capstoneprojectquizapp.netlify.app
+
+2.	Over Github: https://beingmurtuza.github.io/quizapp/
